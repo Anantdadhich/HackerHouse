@@ -2,12 +2,12 @@
 
 ## Instructions
 
-To share your ideas and expectations for athena hacker house, please follow these steps:
+To share your ideas and expectations for Athena Hacker House, please follow these steps:
 
-1. **Create a new file** in this directory (`whatyouneed?/`) with the following naming format:
+1. **Create a new file** in this directory (`WhatYouWant?/`) with the following naming format:
 
    ```
-   [your-github-username].md
+   [your-twitter-username].md
    ```
 
    For example, if your twitter username is `NikhilEth`, create a file named `NikhilEth.md`
@@ -21,7 +21,7 @@ To share your ideas and expectations for athena hacker house, please follow thes
 Copy and paste this template into your `[your-twitter-username].md` file:
 
 ```markdown
-## What I Need/Expect from This Hackathon
+## What I Need/Expect from This Athena Hacker House
 
 ### 💡 Ideas I Want to Explore
 
@@ -55,14 +55,14 @@ Copy and paste this template into your `[your-twitter-username].md` file:
 
 ### 💭 Additional Comments
 
-[Any other thoughts, suggestions, or expectations you have for the hacker house]
+[Any other thoughts, suggestions, or expectations you have for the Athena Hacker House]
 ```
 
 ---
 
 ## Getting Started
 
-1. Navigate to the `whatyouneed?` directory
+1. Navigate to the `WhatYouWant?` directory
 2. Create your file: `[your-twitter-username].md`
 3. Copy the template above
 4. Fill in your details and ideas
